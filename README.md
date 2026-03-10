@@ -183,10 +183,10 @@ AQUASS-Flood-Detection-Alert-System
 │   └── System Design Project Portfolio (Group 7, AQUASS).pdf
 │
 ├── images
-│   ├── prototype_photo.jpg
+│   ├── Prototype_Photo.png
 │
 └── hardware
-    └── wiring_notes.md
+    └── Circuit_Diagram.png
 ```
 
 ---
@@ -251,7 +251,7 @@ By improving **early flood detection and disaster preparedness**.
 ---
 
 # 📜 License
+This project is licensed under the **MIT License**. 
 
-This project is licensed under the **MIT License**.
 
 ```
